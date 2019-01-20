@@ -24,7 +24,7 @@ sudo apt-get install dh-autoreconf -y
 sudo apt-get install automake -y
 sudo apt-get install build-essential -y
 sudo apt-get install libssl1.0-dev -y
-
+cd ~
 wget https://github.com/Eustass-Shanks/Blockshare-core/releases/download/v1.0.0/blockshare-v1.0.0-x86_64-linux-gnu.tar.xz
 tar -xvf blockshare-v1.0.0-x86_64-linux-gnu.tar.xz
 
